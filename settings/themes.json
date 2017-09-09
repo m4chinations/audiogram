@@ -101,5 +101,25 @@
     "captionRight": 620,
     "foregroundColor": "#0eb8ba",
     "backgroundImage": "nyc.png"
+  },
+  "SAFgram": {
+    "name": "SAF Square (Insta)",
+    "width": 2048,
+    "height": 2048,
+    "backgroundImage": "SAFgram.png",
+    "framesPerSecond": 30,
+    "samplesPerFrame": 32,
+    "captionFont": "140px 'Goulash'",
+    "captionAlign": "left",
+    "waveTop": 1550,
+    "waveBottom": 2000,
+    "waveLeft": 45,
+    "waveRight": 1175,
+    "pattern": "curve",
+    "captionTop": 565,
+    "captionBottom": 1200,
+    "captionLeft": 135,
+    "captionRight": 1685,
+    "captionLineSpacing": 60
   }
 }
